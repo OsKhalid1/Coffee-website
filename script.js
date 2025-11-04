@@ -29,7 +29,7 @@ function renderproducts(products) {
     productsContainer.innerHTML += `
       <div class="col-6 col-md-4 col-lg-3 mb-3">
         <div class="product-card ">
-          <img src="dashbored/images/tea-photo/${prod.image}" class="img-fluid" alt="${prod.name}">
+          <img src="${prod.image}" class="img-fluid">
           <h6>${prod.name}</h6>
           <p>${prod.price} SAR</p>
           <button class="btn" style="background-color:rgba(170, 156, 133, 0.29)"; onclick="addTocart(${prod.id})">Order</button>
@@ -209,5 +209,6 @@ if (searchForm) {
     e.preventDefault();
   });
 }
+
 
 
