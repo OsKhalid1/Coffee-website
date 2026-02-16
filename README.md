@@ -74,3 +74,9 @@ If you like the project, feel free to give it a ⭐ on GitHub!
 
 https://github.com/user-attachments/assets/f7246ec6-3bcc-425b-b034-fef98f728985
 
+
+
+
+
+
+https://oskhalid1.github.io/Coffee-website/
